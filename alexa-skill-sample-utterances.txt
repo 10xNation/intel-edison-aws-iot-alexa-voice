@@ -1,0 +1,17 @@
+WhatsRelayStatusIntent what's the status of the light
+WhatsRelayStatusIntent what is the status of the light
+WhatsRelayStatusIntent what's the status of light
+WhatsRelayStatusIntent what is light status
+WhatsRelayStatusIntent light status
+WhatsRelayStatusIntent my light status
+WhatsRelayStatusIntent get my light status
+WhatsRelayStatusIntent get light status
+WhatsRelayStatusIntent give me the light status
+WhatsRelayStatusIntent give me light status
+WhatsRelayStatusIntent what the light status is
+WhatsRelayStatusIntent what light status is
+WhatsRelayStatusIntent yes
+WhatsRelayStatusIntent yup
+WhatsRelayStatusIntent sure
+WhatsRelayStatusIntent yes please
+RelayStatusIsIntent turn the light {Status}

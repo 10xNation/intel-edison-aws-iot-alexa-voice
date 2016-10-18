@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "RelayStatusIsIntent",
+      "slots": [
+        {
+          "name": "Status",
+          "type": "LIST_OF_STATUSES"
+        }
+      ]
+    },
+    {
+      "intent": "WhatsRelayStatusIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
